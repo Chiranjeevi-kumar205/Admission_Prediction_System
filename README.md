@@ -1,3 +1,5 @@
+https://github.com/Chiranjeevi-kumar205/Admission_Prediction_System/assets/113673104/5eddfad1-9766-4798-9d49-f217022e3b75
+
 # Graduate Admissions Prediction System
 
 ## Overview
